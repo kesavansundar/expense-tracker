@@ -4,7 +4,7 @@ import { FiMail,FiLock  } from "react-icons/fi";
 function Login(){
     return(
         <div className='auth-page'>
-            <div className='auth-container'>
+                <div className='auth-card auth-container'>
 
                 <div className='auth-header'>
                     <h1>Welcome Back</h1>
